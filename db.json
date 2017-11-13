@@ -1,7 +1,13 @@
 {
   "posts": [
     {
-      "sku": "453-903",
+      "sku": "sample-1",
+      "title": "Poly Bag",
+      "price": 14.99,
+      "description": "Poly Bags are simply great"
+    },
+    {
+      "sku": "sample-2",
       "title": "Poly Bag",
       "price": 14.99,
       "description": "Poly Bags are simply great"
