@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "products": [
     {
       "sku": "sample-1",
       "title": "Poly Bag",
@@ -8,9 +8,21 @@
     },
     {
       "sku": "sample-2",
-      "title": "Poly Bag",
-      "price": 14.99,
-      "description": "Poly Bags are simply great"
+      "title": "Paper Bag",
+      "price": 15.99,
+      "description": "Paper Bags are simply great"
+    },
+    {
+      "sku": "sample-3",
+      "title": "Coffee Cups",
+      "price": 5.99,
+      "description": "Coffee Cups are simply great"
+    },
+    {
+      "sku": "sample-4",
+      "title": "Plastic Cups",
+      "price": 1.99,
+      "description": "Plastic Cups are simply great"
     }
   ],
   "profile": {
