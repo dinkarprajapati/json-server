@@ -25,6 +25,19 @@
       "description": "Plastic Cups are simply great"
     }
   ],
+  "shipping": [
+    {
+      "items": 5,
+      "cost": 14.99
+    },
+    {
+      "items": 10,
+      "cost": 19.99
+    },{
+      "items": 15,
+      "cost": 24.99
+    }
+  ],
   "profile": {
     "name": "fakeServer"
   }
